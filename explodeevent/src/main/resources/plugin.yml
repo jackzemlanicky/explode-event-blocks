@@ -1,0 +1,4 @@
+name: explodeevent
+version: '${project.version}'
+main: io.github.jackzemlanicky.explodeevent.Explodeevent
+api-version: '1.20'
